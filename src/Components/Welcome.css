@@ -1,0 +1,17 @@
+#welcome {
+    text-align: center;
+    max-width: 500px;
+}
+
+#welcome h2,
+#welcome p {
+    margin-bottom: 1rem;
+}
+
+#welcome p {
+    color:rgb(202, 192, 212);
+}
+
+#welcome img {
+    margin-top: 2rem;
+}
